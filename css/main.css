@@ -1,0 +1,30 @@
+body{
+    background-color:#b38784;
+}
+
+table{
+    border: 1px solid #dddddd;
+    border-collapse: collapse;
+    width: 100%;
+    font-family: arial, sans-serif;
+    text-align: left;
+}
+td,td{
+   padding:10px;
+}
+
+td{
+    border-right: 1px solid #dddddd;
+}
+
+th{
+    background-color:#666666;
+    color:#ffffff;
+}
+
+tr{
+border-bottom: 1px solid #dddddd;
+}
+ tr:nth-child(odd) {
+  background-color: #eeeeee;
+}
